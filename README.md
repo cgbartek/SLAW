@@ -1,5 +1,5 @@
-# slaw
-S*L*A*W: A server-based M.U.L.E. clone
+# S * L * A * W
+A server-based M.U.L.E. clone
 
 Work in progress PHP port of the M.U.L.E. strategy game.
 
